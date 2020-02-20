@@ -1,5 +1,0 @@
-column table "Table_1"
-(
- "Column_1" BIGINT   ,
- "Column_2" BIGINT   )
-
