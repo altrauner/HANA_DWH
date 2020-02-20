@@ -1,0 +1,10 @@
+{
+  "HANA_DWH.staging::BuyingGroups": {
+    "target": {
+      "remote": "MSSQL",
+      "database": "WideWorldImporters",
+      "schema": "Sales",
+      "object": "BuyingGroups"
+    }
+  }
+} 
