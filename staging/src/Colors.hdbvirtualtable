@@ -1,0 +1,1 @@
+VIRTUAL TABLE "HANA_DWH.staging::Colors" AT "MSSQL"."WideWorldImporters"."Warehouse"."Colors" 

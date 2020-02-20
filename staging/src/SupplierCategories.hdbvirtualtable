@@ -1,0 +1,1 @@
+VIRTUAL TABLE "HANA_DWH.staging::SupplierCategories" AT "MSSQL"."WideWorldImporters"."Purchasing"."SupplierCategories" 
