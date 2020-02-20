@@ -1,0 +1,4 @@
+{
+    "name":    "HANA_DWH.staging",
+    "subfolder": "append"
+}

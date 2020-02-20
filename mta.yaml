@@ -1,0 +1,21 @@
+ID: HANA_DWH
+_schema-version: '2.1'
+version: 0.0.1
+modules:
+  - name: staging
+    type: hdb
+    path: staging
+    requires:
+      - name: hdi_staging
+        properties:
+          TARGET_CONTAINER: '~{hdi-container-name}'
+      - name: grant-service
+resources:
+  - name: hdi_staging
+    properties:
+      hdi-container-name: '${service-name}'
+    type: com.sap.xs.hdi-container
+  - name: grant-service
+    type: org.cloudfoundry.existing-service
+    parameters:
+      service-name: grant-service
