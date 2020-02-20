@@ -1,0 +1,1 @@
+VIRTUAL TABLE "HANA_DWH.staging::StateProvinces" AT "MSSQL"."WideWorldImporters"."Application"."StateProvinces" 

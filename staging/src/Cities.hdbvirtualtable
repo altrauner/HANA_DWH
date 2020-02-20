@@ -1,0 +1,1 @@
+VIRTUAL TABLE "HANA_DWH.staging::Cities" AT "MSSQL"."WideWorldImporters"."Application"."Cities" 

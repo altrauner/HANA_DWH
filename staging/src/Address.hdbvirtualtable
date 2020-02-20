@@ -1,1 +1,0 @@
-VIRTUAL TABLE "HANA_DWH.staging::Address" AT "MSSQL"."AdventureWorks"."SalesLT"."Address" 
