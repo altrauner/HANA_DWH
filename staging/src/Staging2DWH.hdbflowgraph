@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowgraph:ContainerNode xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flowgraph="http://www.sap.com/ndb/flowgraph/1.0" xmi:version="2.0" xmi:id="8d194754a78ee2970215c53699f366a5" name="Staging2DWH" runtimeBehavior="BATCH_TASK">
+  <annotations key="sap.afm.layout" xmi:id="3049643673b048c3a3c8278ec2df3bae">
+    <annotations xmi:id="eaa492794f18cd139683f2fd1381eba2" key="x" value="10">
+    </annotations>
+    <annotations xmi:id="92126d1939c0999b5ecad7cd39119814" key="y" value="10">
+    </annotations>
+    <annotations xmi:id="07eb6b0ec0d0956a5703f7f774f099ff" key="width" value="100">
+    </annotations>
+    <annotations xmi:id="e002eacb10bc8883df654b39dae3abdd" key="height" value="84">
+    </annotations>
+  </annotations>
+  <annotations xmi:id="88df010221701527f4d484a929a2288a" key="sap.afm.palette">
+    <annotations xmi:id="f7b793d37425849dba7b4baa41d34eed" key="additions" value=""/>
+  </annotations>
+  <annotations xmi:id="4915b5d694fcb604fe63cbdd75369c54" key="sap.afm.nodeType" value="ContainerNode">
+  </annotations>
+  <annotations xmi:id="150932930214e8427fb17ff5438fbd71" key="sap.afm.nodeInputs">
+  </annotations>
+  <annotations xmi:id="a02a4ef11b8482e7dd4ee4859a847b46" key="sap.afm.nodeOutputs">
+  </annotations>
+  <tableMappings xmi:id="cd8c6f61f492597c778e482706411581" source="6637a60df7573dfd068d435e54dec3ee" target="3027c31b00b158c1825a5c1565412893">
+    <attributeMappings xmi:id="af71b64387607fbc5c6601251a309e04" source="1bb23c756fd84bd954613c52a87b58c3" target="30a237b6e5a40793b1d1f185dce48b55">
+    </attributeMappings>
+    <attributeMappings xmi:id="7835d7b7af591e1aafbd442a299b0b57" source="a834cf84788d188886fede13816fd5a0" target="b5c8ca5a4390fb79ac76996b8d6e564f">
+    </attributeMappings>
+    <attributeMappings xmi:id="e3a21b64a89b9e2b5f65e2d847e50f37" source="9713cce3860e4405a214a10c03a26109" target="b0cb455810a0fda4aca72c63afdefdd7">
+    </attributeMappings>
+    <attributeMappings xmi:id="42244eb97319424cec6fc4cbc074856d" source="0c0cb87be7948d7b21d8f76a5bfc7aa7" target="ad7e22afb5de0d8dc440753d614aae82">
+    </attributeMappings>
+    <attributeMappings xmi:id="a9b491ca5618018f4c05b837cc3f2f80" source="addf9cd68c0449b435b5519f46291fdb" target="37d3b43a7c754daebc86456da114b5cf">
+    </attributeMappings>
+    <attributeMappings xmi:id="e20d238e78275291e911033f23bb4aa0" source="33adb9a1a5256c07a9d413368edff477" target="592054830f2a99a41347bbf15b1810b0">
+    </attributeMappings>
+    <attributeMappings xmi:id="e09fe005427fd5d80cca0c36dccad496" source="6f4bfedbcbe146e4c82a9f04bdad7d7f" target="bcdc4531a5cc8eb0d197e449f99e3405">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="54b376ba3be839fa1f9ee69cea65159c" source="8a5d7e85d10d2c5d649f6ec32d9ebdac" target="690cb872a4c93f3d61571817993f2503">
+    <attributeMappings xmi:id="443456c4ef5c47f32a0fcc75bcf67e24" source="1f5361636cc2470ef93f00b20a6208f0" target="e3bc7e10b74189da6488ed69ec038aa1">
+    </attributeMappings>
+    <attributeMappings xmi:id="2cb96b3b2a11a62a0455095fe823c05d" source="f17009e70f617424b5245af84d80fbfa" target="5d54dc874643444b2aa10fdc03a462ab">
+    </attributeMappings>
+    <attributeMappings xmi:id="c30a26a3eea248dea6403a082a96976c" source="ef981c0d134c432cb92c02a74b08620d" target="a34eab71011a13f4a4aaa4a90d9c9ee0">
+    </attributeMappings>
+    <attributeMappings xmi:id="f604a4737160ed1320b0c81b278f0928" source="a411836418e63688270ac3fccf868b06" target="5ac9c44462ddf4d30cc54ddebcd6b725">
+    </attributeMappings>
+    <attributeMappings xmi:id="6cd51d40abed62a2bc7a156ebfbf5699" source="129e1e4ff618c1ead05276757c107855" target="43f73a94e0181da375a6971e8468ed4b">
+    </attributeMappings>
+    <attributeMappings xmi:id="943f511961379ce2bb3b3013656d048e" source="600d41082114883b5ece2f9a31928534" target="b60746870036e731a63392ce0125c1b9">
+    </attributeMappings>
+    <attributeMappings xmi:id="19ce91265dbdef774ab7929671bf8d1b" source="e6af2dbb5a44eba915e1497c314da04b" target="9a8965b1b07537c1af59b0d800fb44ce">
+    </attributeMappings>
+    <attributeMappings xmi:id="eb7c9934ebcf6975885d2888eadb777b" source="3a6b479f2fde894e57545303c3aa7ef0" target="0ee24abf588c385fc7021e643c7a288a">
+    </attributeMappings>
+    <attributeMappings xmi:id="6e7003628f663e5a96fefb2496670594" source="38f885bde086d1966973532a10cbc7b3" target="bfb6aad8612f6ed5ad7199abc85032e7">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="8a08981fef83bf5ef492d9bdad727763" source="467b2162f6e41b2c28d36cdcc48cb758" target="923d4fd4a5d7bb77c455dc866e423dd9">
+    <attributeMappings xmi:id="b2de5058dddbd409b50043c067d2a911" source="1e6d614c1f07e3543f86ae40465e9c0f" target="acff327707ad6cb120fc0619557c124f">
+    </attributeMappings>
+    <attributeMappings xmi:id="9b05ed9ddc6810ff497417bf59a2b2e2" source="c4a5cb77001d5d14f3edd61c8209bb95" target="ae938f9d6946cd5bdf61288eb127d7f2">
+    </attributeMappings>
+    <attributeMappings xmi:id="c5175b804824f1ad4ae7a28e0ba5d18e" source="c008614c99741302b454b5e571a79d07" target="3f09502e96087dab459d1e528a4b0d46">
+    </attributeMappings>
+    <attributeMappings xmi:id="3e0a094cde36bfd138d50d24b3c33a52" source="86a1bba8a3f25641d32b2424bb197170" target="7d0eb153e63a203195ba61e7f63fada6">
+    </attributeMappings>
+    <attributeMappings xmi:id="7621a4616bfc4f88849782e0d0430e12" source="7eefd89719d79b75fd536a450ec63ef8" target="a07ebf31676a4925eaab5996d9c6a4fe">
+    </attributeMappings>
+    <attributeMappings xmi:id="62b1a791dfa17886ca0f8ed96957f635" source="44d7147267cdce0f2244aa908794c66d" target="662a8d6c4fb6b0d6bd2fc3685212b3f3">
+    </attributeMappings>
+    <attributeMappings xmi:id="6901a7478b707f1c0f9191338d13e6f6" source="e76d6050902be742dd41bdfdd0a0077a" target="18678636eaeb5599c558e555fff2d601">
+    </attributeMappings>
+    <attributeMappings xmi:id="ea2cb6d40477c22d98160be041dfdb7b" source="7aed11d334991283152a76be5e2b8fbb" target="2f847d3dc7c33a030327bde0c9b7af06">
+    </attributeMappings>
+    <attributeMappings xmi:id="7a9a4ee53509842a48d6cdd34ab89e70" source="01e0f44121fe951a6a4f69df6fa90ddd" target="3518314d4b85a8b0837b70ef12d2ca9d">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="74b66484eaba291468eb73cffdd8c990" source="febf587a68ce00d203d747be06f08137" target="35e4ab23a302984028e5825ccb3de0da">
+    <attributeMappings xmi:id="7f57a0d9d350d35355781cb70388263a" source="59bc9ec505a26f4604768dc5b7f999ec" target="f0a9cc008b6522817a0bb4723bc18d0c">
+    </attributeMappings>
+    <attributeMappings xmi:id="6ed87878b255c7634bc5c3e858f7213a" source="a061a5466871ab622b9ef0354fcc22b2" target="0e368e599778a600fbf89381d4aa613f">
+    </attributeMappings>
+    <attributeMappings xmi:id="0478f7bd59105bfd7e5e6ac6944cc02c" source="896643408651dc64e44e65ea72bd9fe7" target="367299f3eeaab960f263c1e4013aaaba">
+    </attributeMappings>
+    <attributeMappings xmi:id="cb3994d05cd6e9ba86473defe401c539" source="b31ef346dd0d0250f13fde318f6a97df" target="ac07d27d972a9dc59f811ec2f6072f9f">
+    </attributeMappings>
+    <attributeMappings xmi:id="0544adca0c14bdb605405117bed70f70" source="f1054c779d3f1c69a4c2613aebda219b" target="e44a6622d75bf428302cca304d7c42b6">
+    </attributeMappings>
+    <attributeMappings xmi:id="0dd9330b3db79de0ec4a957c3c3d830e" source="1e5605c6ca32ab887758feb7e029d2f0" target="90912ba78b1326db18003864cb59f558">
+    </attributeMappings>
+    <attributeMappings xmi:id="1f908a251c3e5368fe83312dfa99ca3e" source="c31ec7dacfd6e0c307a457079fc279cf" target="1b19ea3982793d71628f36090e49b0ef">
+    </attributeMappings>
+    <attributeMappings xmi:id="5a31e1538114afb5fea267cbbfe2ed0c" source="1dc2fef466b44724a9fca2c5857c8786" target="196fa21dd5c5f3fa4d5b843cf7ac579e">
+    </attributeMappings>
+    <attributeMappings xmi:id="2838ea128225b51f2634cc127f15bbef" source="d1321a90a41414d0d1bc9d0e87bf372e" target="013c0b7c2fab18d426633900b92e3f29">
+    </attributeMappings>
+    <attributeMappings xmi:id="50f245ccf04adb5a6e317b70f46ecae5" source="f09c92432bfbd8b0e7c0133b8f158df8" target="f01d85d17044de838d4040f0010c7b81">
+    </attributeMappings>
+    <attributeMappings xmi:id="35ae0614eb573b8e883d62155ef073a1" source="b0f6429e6118678543347144889a8317" target="725a0ae91698e4b2b31baf85c83a3732">
+    </attributeMappings>
+    <attributeMappings xmi:id="21907204b61c75cc0f95c6820df1b43b" source="19d2cf6281d375bf17d99d851da34448" target="723cdc121be8b42ba37ad97c405d19f5">
+    </attributeMappings>
+    <attributeMappings xmi:id="14ea6df13df30d344e05916a74a5dfb2" source="ffe8b22aa7b82d8449febe05f2ace6f4" target="c8f3d2729f17ef2885daa448b12cf7f0">
+    </attributeMappings>
+  </tableMappings>
+  <nodes xmi:id="98f60b3bb59bda39b3a14d7e148ef1e6" name="Cities" catalogObjectName="Cities" type="DATABASE_TABLE" xsi:type="flowgraph:DataNode" dataLayout="COLUMN">
+    <annotations key="sap.afm.layout" xmi:id="5621d615a644d3daf2d2908627458458">
+      <annotations xmi:id="94a142800a6f212ba8268840db7a4a6d" key="x" value="23">
+      </annotations>
+      <annotations xmi:id="86c38416d673093fb1f364c4b2ab3059" key="y" value="-5">
+      </annotations>
+      <annotations xmi:id="c2e95b3c5d9245dcb1c235f02f422947" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="7c6168ba34f4fb8d110c8058cbc3aeea" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="2a4f4833f15fd7a7e288b068edc302de" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="7d80e6e045955495f60c0c4600a49470" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="e26b0ccf43051ecdd964dd20a03fe29c" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="7f7791a27204198e70e9be70a0ff02eb" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="0c06576a084698ec05704e0a9ce4aab4" key="sap.afm.displayName" value="Data Source">
+    </annotations>
+    <annotations xmi:id="4d2e4000c522eb9b4f510f1ae8cb1764" key="columns" value="[{&quot;name&quot;:&quot;CityID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;primarykey&quot;:true,&quot;id&quot;:&quot;1bb23c756fd84bd954613c52a87b58c3&quot;},{&quot;name&quot;:&quot;CityName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;a834cf84788d188886fede13816fd5a0&quot;},{&quot;name&quot;:&quot;StateProvinceID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;9713cce3860e4405a214a10c03a26109&quot;},{&quot;name&quot;:&quot;LatestRecordedPopulation&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;0c0cb87be7948d7b21d8f76a5bfc7aa7&quot;},{&quot;name&quot;:&quot;LastEditedBy&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;addf9cd68c0449b435b5519f46291fdb&quot;},{&quot;name&quot;:&quot;ValidFrom&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;33adb9a1a5256c07a9d413368edff477&quot;},{&quot;name&quot;:&quot;ValidTo&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;6f4bfedbcbe146e4c82a9f04bdad7d7f&quot;}]">
+    </annotations>
+    <annotations xmi:id="5d48dd9ecd71c81cd073e410d459cc0c" key="sap.im.realtime" value="false">
+    </annotations>
+    <annotations xmi:id="ddf56321aed7b62e6781bb15c2fb977f" key="sap.im.tableLevelChange" value="false">
+    </annotations>
+    <outputs xmi:id="6637a60df7573dfd068d435e54dec3ee" name="Cities">
+      <attributes xmi:id="1bb23c756fd84bd954613c52a87b58c3" name="CityID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="2f15e589d6f7f2d911586c629d86d8c9" key="sap.im.primaryKey" value="true"/>
+      </attributes>
+      <attributes xmi:id="a834cf84788d188886fede13816fd5a0" name="CityName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="9713cce3860e4405a214a10c03a26109" name="StateProvinceID" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="0c0cb87be7948d7b21d8f76a5bfc7aa7" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="addf9cd68c0449b435b5519f46291fdb" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="33adb9a1a5256c07a9d413368edff477" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="6f4bfedbcbe146e4c82a9f04bdad7d7f" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="af38b6e715cd46e8c5f9ddc872c51f12" name="StateProvinces" catalogObjectName="StateProvinces" type="DATABASE_TABLE" xsi:type="flowgraph:DataNode" dataLayout="COLUMN">
+    <annotations key="sap.afm.layout" xmi:id="eb882ba8033a8607966d88281aca3555">
+      <annotations xmi:id="49c612a130aaf00fb2c1439d1d6470cf" key="x" value="23">
+      </annotations>
+      <annotations xmi:id="a811f932088b0107fa7d1ee4c37f4d6e" key="y" value="135">
+      </annotations>
+      <annotations xmi:id="e2e289c02c8a3a17b6b0714688ad4a99" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="1a9d015cdadd7352993b0c61e05d6225" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="1dbeac29e2cb6499cae92e38b5d1c167" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="a0fd14035e29745f71bcd24e4047ceac" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="fda3e4c2f955e13da05da0821b790d8e" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="01a10ff5040e201ef0ae509bc754bc36" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="c252a1292d7ca5a610813c5aa9b4f11a" key="sap.afm.displayName" value="Data Source">
+    </annotations>
+    <annotations xmi:id="18e2adf65ce680136c4a5c4aebbb33f9" key="columns" value="[{&quot;name&quot;:&quot;StateProvinceID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;primarykey&quot;:true,&quot;id&quot;:&quot;1f5361636cc2470ef93f00b20a6208f0&quot;},{&quot;name&quot;:&quot;StateProvinceCode&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:5,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;f17009e70f617424b5245af84d80fbfa&quot;},{&quot;name&quot;:&quot;StateProvinceName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;ef981c0d134c432cb92c02a74b08620d&quot;},{&quot;name&quot;:&quot;CountryID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;a411836418e63688270ac3fccf868b06&quot;},{&quot;name&quot;:&quot;SalesTerritory&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;129e1e4ff618c1ead05276757c107855&quot;},{&quot;name&quot;:&quot;LatestRecordedPopulation&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;600d41082114883b5ece2f9a31928534&quot;},{&quot;name&quot;:&quot;LastEditedBy&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;e6af2dbb5a44eba915e1497c314da04b&quot;},{&quot;name&quot;:&quot;ValidFrom&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;3a6b479f2fde894e57545303c3aa7ef0&quot;},{&quot;name&quot;:&quot;ValidTo&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;38f885bde086d1966973532a10cbc7b3&quot;}]">
+    </annotations>
+    <annotations xmi:id="633f16c8fcee0581717eff63e873a428" key="sap.im.realtime" value="false">
+    </annotations>
+    <annotations xmi:id="ddf4ba3e00022fe75a5bb3c6913a3aae" key="sap.im.tableLevelChange" value="false">
+    </annotations>
+    <outputs xmi:id="8a5d7e85d10d2c5d649f6ec32d9ebdac" name="StateProvinces">
+      <attributes xmi:id="1f5361636cc2470ef93f00b20a6208f0" name="StateProvinceID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="e4067bc4147d45d133fd5409c50d53ae" key="sap.im.primaryKey" value="true"/>
+      </attributes>
+      <attributes xmi:id="f17009e70f617424b5245af84d80fbfa" name="StateProvinceCode" type="NVARCHAR" nullable="false" length="5">
+      </attributes>
+      <attributes xmi:id="ef981c0d134c432cb92c02a74b08620d" name="StateProvinceName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="a411836418e63688270ac3fccf868b06" name="CountryID" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="129e1e4ff618c1ead05276757c107855" name="SalesTerritory" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="600d41082114883b5ece2f9a31928534" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="e6af2dbb5a44eba915e1497c314da04b" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="3a6b479f2fde894e57545303c3aa7ef0" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="38f885bde086d1966973532a10cbc7b3" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="b56f6aa71f716250799e7e48bbc357da" name="Countries" catalogObjectName="Countries" type="DATABASE_TABLE" xsi:type="flowgraph:DataNode" dataLayout="COLUMN">
+    <annotations key="sap.afm.layout" xmi:id="014bb9752c95b41a5da4da60ac55db62">
+      <annotations xmi:id="d05c55495f81c245d4cda1de9380b8d8" key="x" value="29">
+      </annotations>
+      <annotations xmi:id="8e95c6a5d4803595c181295bf5661313" key="y" value="275">
+      </annotations>
+      <annotations xmi:id="18b6ce6959e35196265135b3bc729998" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="aba09bd00c4b748add17b54f1333c00a" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="9c92262275053f23a55c14b84991c71b" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="27b12bb94e463a9f993d1ca54eefe741" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="3f858dbf438718cff2546e5435537657" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="3ed2a5adb58b72d9c116898f3ed9f681" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="212ab6dc18f9b350c3a871db6b4b57d1" key="sap.afm.displayName" value="Data Source">
+    </annotations>
+    <annotations xmi:id="847be7aa59443045d1c835515efd6108" key="columns" value="[{&quot;name&quot;:&quot;CountryID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;primarykey&quot;:true,&quot;id&quot;:&quot;59bc9ec505a26f4604768dc5b7f999ec&quot;},{&quot;name&quot;:&quot;CountryName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:60,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;a061a5466871ab622b9ef0354fcc22b2&quot;},{&quot;name&quot;:&quot;FormalName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:60,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;896643408651dc64e44e65ea72bd9fe7&quot;},{&quot;name&quot;:&quot;IsoAlpha3Code&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:3,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;b31ef346dd0d0250f13fde318f6a97df&quot;},{&quot;name&quot;:&quot;IsoNumericCode&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;f1054c779d3f1c69a4c2613aebda219b&quot;},{&quot;name&quot;:&quot;CountryType&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:20,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1e5605c6ca32ab887758feb7e029d2f0&quot;},{&quot;name&quot;:&quot;LatestRecordedPopulation&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;c31ec7dacfd6e0c307a457079fc279cf&quot;},{&quot;name&quot;:&quot;Continent&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:30,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;1dc2fef466b44724a9fca2c5857c8786&quot;},{&quot;name&quot;:&quot;Region&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:30,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;d1321a90a41414d0d1bc9d0e87bf372e&quot;},{&quot;name&quot;:&quot;Subregion&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:30,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;f09c92432bfbd8b0e7c0133b8f158df8&quot;},{&quot;name&quot;:&quot;LastEditedBy&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;b0f6429e6118678543347144889a8317&quot;},{&quot;name&quot;:&quot;ValidFrom&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;19d2cf6281d375bf17d99d851da34448&quot;},{&quot;name&quot;:&quot;ValidTo&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;ffe8b22aa7b82d8449febe05f2ace6f4&quot;}]">
+    </annotations>
+    <annotations xmi:id="04f097c6ac16cb3dc5eaf0c8e260e349" key="sap.im.realtime" value="false">
+    </annotations>
+    <annotations xmi:id="790d13875b3784b312ff6bd194e219bb" key="sap.im.tableLevelChange" value="false">
+    </annotations>
+    <outputs xmi:id="febf587a68ce00d203d747be06f08137" name="Countries">
+      <attributes xmi:id="59bc9ec505a26f4604768dc5b7f999ec" name="CountryID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="0aeff76398e87fc28311b34f46a76ccc" key="sap.im.primaryKey" value="true"/>
+      </attributes>
+      <attributes xmi:id="a061a5466871ab622b9ef0354fcc22b2" name="CountryName" type="NVARCHAR" nullable="false" length="60">
+      </attributes>
+      <attributes xmi:id="896643408651dc64e44e65ea72bd9fe7" name="FormalName" type="NVARCHAR" nullable="false" length="60">
+      </attributes>
+      <attributes xmi:id="b31ef346dd0d0250f13fde318f6a97df" name="IsoAlpha3Code" type="NVARCHAR" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="f1054c779d3f1c69a4c2613aebda219b" name="IsoNumericCode" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="1e5605c6ca32ab887758feb7e029d2f0" name="CountryType" type="NVARCHAR" nullable="true" length="20">
+      </attributes>
+      <attributes xmi:id="c31ec7dacfd6e0c307a457079fc279cf" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="1dc2fef466b44724a9fca2c5857c8786" name="Continent" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="d1321a90a41414d0d1bc9d0e87bf372e" name="Region" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="f09c92432bfbd8b0e7c0133b8f158df8" name="Subregion" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="b0f6429e6118678543347144889a8317" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="19d2cf6281d375bf17d99d851da34448" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="ffe8b22aa7b82d8449febe05f2ace6f4" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="51ae26389182923c58c3a45e2f2731dd" xsi:type="flowgraph:JoinNode" name="Join">
+    <annotations key="sap.afm.layout" xmi:id="fbe94abaaf3c8f6d3a8a1107f52c5f97">
+      <annotations xmi:id="275209c347c8a64a13c1413fce24150c" key="x" value="283">
+      </annotations>
+      <annotations xmi:id="f937954888fcd5e8156bc4baaea18c22" key="y" value="97">
+      </annotations>
+      <annotations xmi:id="4a7e1f325a62238f5c8c338907d96aab" key="width" value="153.04833984375">
+      </annotations>
+      <annotations xmi:id="55b10c30f17cbc7cd520b13968c9c8c5" key="height" value="171">
+      </annotations>
+    </annotations>
+    <inputs xmi:id="3027c31b00b158c1825a5c1565412893" name="Join_IN" kind="TABLE">
+      <attributes xmi:id="30a237b6e5a40793b1d1f185dce48b55" name="CityID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="da3c9c9ba670d31f140c9fc7a70dd56d" key="sap.im.primaryKey" value="true">
+        </annotations>
+      </attributes>
+      <attributes xmi:id="b5c8ca5a4390fb79ac76996b8d6e564f" name="CityName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="b0cb455810a0fda4aca72c63afdefdd7" name="StateProvinceID" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="ad7e22afb5de0d8dc440753d614aae82" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="37d3b43a7c754daebc86456da114b5cf" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="592054830f2a99a41347bbf15b1810b0" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="bcdc4531a5cc8eb0d197e449f99e3405" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </inputs>
+    <inputs xmi:id="690cb872a4c93f3d61571817993f2503" name="Join_IN_1" kind="TABLE">
+      <attributes xmi:id="e3bc7e10b74189da6488ed69ec038aa1" name="StateProvinceID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="0c5becec3637df44d8c57f993b0580e3" key="sap.im.primaryKey" value="true">
+        </annotations>
+      </attributes>
+      <attributes xmi:id="5d54dc874643444b2aa10fdc03a462ab" name="StateProvinceCode" type="NVARCHAR" nullable="false" length="5">
+      </attributes>
+      <attributes xmi:id="a34eab71011a13f4a4aaa4a90d9c9ee0" name="StateProvinceName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="5ac9c44462ddf4d30cc54ddebcd6b725" name="CountryID" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="43f73a94e0181da375a6971e8468ed4b" name="SalesTerritory" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="b60746870036e731a63392ce0125c1b9" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="9a8965b1b07537c1af59b0d800fb44ce" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="0ee24abf588c385fc7021e643c7a288a" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="bfb6aad8612f6ed5ad7199abc85032e7" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </inputs>
+    <inputs xmi:id="35e4ab23a302984028e5825ccb3de0da" name="Join_IN_2" kind="TABLE">
+      <attributes xmi:id="f0a9cc008b6522817a0bb4723bc18d0c" name="CountryID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="25266eb9ebb82cba319cdace8b5bbfc8" key="sap.im.primaryKey" value="true">
+        </annotations>
+      </attributes>
+      <attributes xmi:id="0e368e599778a600fbf89381d4aa613f" name="CountryName" type="NVARCHAR" nullable="false" length="60">
+      </attributes>
+      <attributes xmi:id="367299f3eeaab960f263c1e4013aaaba" name="FormalName" type="NVARCHAR" nullable="false" length="60">
+      </attributes>
+      <attributes xmi:id="ac07d27d972a9dc59f811ec2f6072f9f" name="IsoAlpha3Code" type="NVARCHAR" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="e44a6622d75bf428302cca304d7c42b6" name="IsoNumericCode" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="90912ba78b1326db18003864cb59f558" name="CountryType" type="NVARCHAR" nullable="true" length="20">
+      </attributes>
+      <attributes xmi:id="1b19ea3982793d71628f36090e49b0ef" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="196fa21dd5c5f3fa4d5b843cf7ac579e" name="Continent" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="013c0b7c2fab18d426633900b92e3f29" name="Region" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="f01d85d17044de838d4040f0010c7b81" name="Subregion" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="725a0ae91698e4b2b31baf85c83a3732" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="723cdc121be8b42ba37ad97c405d19f5" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="c8f3d2729f17ef2885daa448b12cf7f0" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </inputs>
+    <outputs xmi:id="467b2162f6e41b2c28d36cdcc48cb758" name="Join_OUT" kind="TABLE">
+      <attributes xmi:id="1e6d614c1f07e3543f86ae40465e9c0f" name="WWI City ID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="be7ccba6fb0dc049ff433efaecf24682" key="sap.im.primaryKey" value="true"/>
+      </attributes>
+      <attributes xmi:id="c4a5cb77001d5d14f3edd61c8209bb95" name="City" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="c008614c99741302b454b5e571a79d07" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="86a1bba8a3f25641d32b2424bb197170" name="StateProvince" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="7eefd89719d79b75fd536a450ec63ef8" name="SalesTerritory" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="44d7147267cdce0f2244aa908794c66d" name="Country" type="NVARCHAR" nullable="false" length="60">
+      </attributes>
+      <attributes xmi:id="e76d6050902be742dd41bdfdd0a0077a" name="Continent" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="7aed11d334991283152a76be5e2b8fbb" name="Region" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="01e0f44121fe951a6a4f69df6fa90ddd" name="Subregion" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+    </outputs>
+    <tableMappings xmi:id="12a503e0875e9da567a45639d2a5218c" source="3027c31b00b158c1825a5c1565412893" target="467b2162f6e41b2c28d36cdcc48cb758">
+      <attributeMappings xmi:id="fe7ef1daf6edd45b209c308b9e121300" source="30a237b6e5a40793b1d1f185dce48b55" target="1e6d614c1f07e3543f86ae40465e9c0f">
+      </attributeMappings>
+      <attributeMappings xmi:id="cb4bd80b8526276defe8bf2faed3ebf0" source="b5c8ca5a4390fb79ac76996b8d6e564f" target="c4a5cb77001d5d14f3edd61c8209bb95">
+      </attributeMappings>
+      <attributeMappings xmi:id="6ff12dbfff2faef9f2f725b660e04ca0" source="ad7e22afb5de0d8dc440753d614aae82" target="c008614c99741302b454b5e571a79d07">
+      </attributeMappings>
+    </tableMappings>
+    <tableMappings xmi:id="ee2377b24c44633c337a0e0912ec1188" source="690cb872a4c93f3d61571817993f2503" target="467b2162f6e41b2c28d36cdcc48cb758">
+      <attributeMappings xmi:id="78ffdd52ad47d2f75456dc3214a0de23" source="a34eab71011a13f4a4aaa4a90d9c9ee0" target="86a1bba8a3f25641d32b2424bb197170">
+      </attributeMappings>
+      <attributeMappings xmi:id="69a37bcbc225d04ae48f261ddac73a83" source="43f73a94e0181da375a6971e8468ed4b" target="7eefd89719d79b75fd536a450ec63ef8">
+      </attributeMappings>
+    </tableMappings>
+    <tableMappings xmi:id="073029fae985fc6687bcb5f22ff70713" source="35e4ab23a302984028e5825ccb3de0da" target="467b2162f6e41b2c28d36cdcc48cb758">
+      <attributeMappings xmi:id="a7efee2d68961fd7cd0392d8abe4b020" source="0e368e599778a600fbf89381d4aa613f" target="44d7147267cdce0f2244aa908794c66d">
+      </attributeMappings>
+      <attributeMappings xmi:id="af344c4b219aab854f05ff8abc0d8f23" source="196fa21dd5c5f3fa4d5b843cf7ac579e" target="e76d6050902be742dd41bdfdd0a0077a">
+      </attributeMappings>
+      <attributeMappings xmi:id="c5d284ee20e88b2d3eaf5b1e9d962e24" source="013c0b7c2fab18d426633900b92e3f29" target="7aed11d334991283152a76be5e2b8fbb">
+      </attributeMappings>
+      <attributeMappings xmi:id="1a231db2bc4759ab7f90e13a10d91e8b" source="f01d85d17044de838d4040f0010c7b81" target="01e0f44121fe951a6a4f69df6fa90ddd">
+      </attributeMappings>
+    </tableMappings>
+    <joinDefinitions left="3027c31b00b158c1825a5c1565412893" right="690cb872a4c93f3d61571817993f2503" type="INNER" condition="&quot;Join_IN&quot;.&quot;StateProvinceID&quot; = &quot;Join_IN_1&quot;.&quot;StateProvinceID&quot;">
+    </joinDefinitions>
+    <joinDefinitions right="35e4ab23a302984028e5825ccb3de0da" type="INNER" condition="&quot;Join_IN_1&quot;.&quot;CountryID&quot; = &quot;Join_IN_2&quot;.&quot;CountryID&quot;">
+    </joinDefinitions>
+  </nodes>
+  <nodes xmi:id="4b595818bcd91081c3e66d666e6e788c" xsi:type="flowgraph:DataNode" name="DataTarget" truncateTable="true" catalogObjectName="Join_Test" type="TEMPLATE_TABLE">
+    <annotations key="sap.afm.layout" xmi:id="5ab166a07a2e7e8253f7c15093b28553">
+      <annotations xmi:id="adf368b27417cab2f4a66fa1e5329fe4" key="x" value="530">
+      </annotations>
+      <annotations xmi:id="7031193bf5be37de41a30b4385ce5eef" key="y" value="110">
+      </annotations>
+      <annotations xmi:id="54d302445e27864ab67b2d49d91fbf0d" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="30f8449a24ca0fac3add1ded63d10024" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="021aa6187e070728eea489a5540cb5e9" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="9cf2996bbbad83ec9963591994e1c7dd" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="99f087be5e99889882f7a9ea256e91ad" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="b9fa47ef3c025a6ef6303f43d47727c5" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="dd405415d1a9a8507ecdd5240c2d81b6" key="sap.afm.displayName" value="Data Target">
+    </annotations>
+    <inputs xmi:id="923d4fd4a5d7bb77c455dc866e423dd9" name="DataTarget" kind="TABLE">
+      <attributes xmi:id="acff327707ad6cb120fc0619557c124f" name="WWI City ID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="9ce6be95e87b228748a6f0c5070d88ee" key="sap.im.primaryKey" value="true">
+        </annotations>
+      </attributes>
+      <attributes xmi:id="ae938f9d6946cd5bdf61288eb127d7f2" name="City" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="3f09502e96087dab459d1e528a4b0d46" name="LatestRecordedPopulation" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="7d0eb153e63a203195ba61e7f63fada6" name="StateProvince" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="a07ebf31676a4925eaab5996d9c6a4fe" name="SalesTerritory" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="662a8d6c4fb6b0d6bd2fc3685212b3f3" name="Country" type="NVARCHAR" nullable="false" length="60">
+      </attributes>
+      <attributes xmi:id="18678636eaeb5599c558e555fff2d601" name="Continent" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="2f847d3dc7c33a030327bde0c9b7af06" name="Region" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+      <attributes xmi:id="3518314d4b85a8b0837b70ef12d2ca9d" name="Subregion" type="NVARCHAR" nullable="false" length="30">
+      </attributes>
+    </inputs>
+  </nodes>
+</flowgraph:ContainerNode>

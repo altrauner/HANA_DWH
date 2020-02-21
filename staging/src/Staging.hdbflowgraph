@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<flowgraph:ContainerNode xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flowgraph="http://www.sap.com/ndb/flowgraph/1.0" xmi:id="6d581dc79b3b578b773482d2fe07a92b" name="Staging" runtimeBehavior="BATCH_TASK">
+<flowgraph:ContainerNode xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flowgraph="http://www.sap.com/ndb/flowgraph/1.0" xmi:version="2.0" xmi:id="6d581dc79b3b578b773482d2fe07a92b" name="Staging" runtimeBehavior="BATCH_TASK">
   <annotations key="sap.afm.layout" xmi:id="5d9a52e026ea85d09975faa2dcf166bb">
     <annotations xmi:id="a0a43657ba9aba51dec4eb36b5606bd5" key="x" value="10">
     </annotations>
@@ -11,8 +11,7 @@
     </annotations>
   </annotations>
   <annotations xmi:id="529353316e3d05525b5e68eca7c21156" key="sap.afm.palette">
-    <annotations xmi:id="5f4f0dc78310b101be325107cc895350" key="additions" value="">
-    </annotations>
+    <annotations xmi:id="5f4f0dc78310b101be325107cc895350" key="additions" value=""/>
   </annotations>
   <annotations xmi:id="b69461c29cc7022fc21d449f7704c1cd" key="sap.afm.nodeType" value="ContainerNode">
   </annotations>
@@ -415,8 +414,7 @@
     </annotations>
     <outputs xmi:id="1b79f1f5cdff36836165eca6ea417668" name="BuyingGroups">
       <attributes xmi:id="145697f33e010a549fb8e14bfb473374" name="BuyingGroupID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="09e90407349afc147084f29b4d872ffe" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="09e90407349afc147084f29b4d872ffe" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="daaeca5b22b7f8c331b34e45f3c1be6e" name="BuyingGroupName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
@@ -493,8 +491,7 @@
     </annotations>
     <outputs xmi:id="e8d8a866bb8526cdd6f487b67280735f" name="Cities">
       <attributes xmi:id="a40746d2f2467b95dbc11e93b3c2f3a7" name="CityID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="e2325504406601483e9652c761cbc1b0" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="e2325504406601483e9652c761cbc1b0" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="ea16e119339f93e9245b142cd58ac1bc" name="CityName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
@@ -579,8 +576,7 @@
     </annotations>
     <outputs xmi:id="bdc8cf56c2e64b51ce6c6e5f35299be1" name="Colors">
       <attributes xmi:id="d14844f00b8c7d7453edf0d9130f4a61" name="ColorID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="aad6009c6f69ef2aa7210d4d81c9eeaf" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="aad6009c6f69ef2aa7210d4d81c9eeaf" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="f7c43471ab0dcb6035dd147dd7ded7cb" name="ColorName" type="NVARCHAR" nullable="false" length="20">
       </attributes>
@@ -657,8 +653,7 @@
     </annotations>
     <outputs xmi:id="aa653f79c182204b455545f9bef02fef" name="Countries">
       <attributes xmi:id="1b002d0908c2ceed9535a7fcb01caad4" name="CountryID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="7535a2456b1087ce655470b2ce10d89d" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="7535a2456b1087ce655470b2ce10d89d" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="535ebc0da314275fc33a3d754bee24de" name="CountryName" type="NVARCHAR" nullable="false" length="60">
       </attributes>
@@ -767,8 +762,7 @@
     </annotations>
     <outputs xmi:id="e49a60156e156b9072cc27c7edcb54c3" name="CustomerCategories">
       <attributes xmi:id="d464a8b84905c7e5802cb612bcf1edb0" name="CustomerCategoryID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="e5e8103ec4a57418a3005a09b0ce3252" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="e5e8103ec4a57418a3005a09b0ce3252" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="c8255a827cd0f4a8c601222d93bc107e" name="CustomerCategoryName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
@@ -845,8 +839,7 @@
     </annotations>
     <outputs xmi:id="9fee9104a5a177718ffcc318140cbd5d" name="Customers">
       <attributes xmi:id="acd97af198301878e1aa61a9537cb288" name="CustomerID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="a2341f42fbad0114669e72276f0c85fd" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="a2341f42fbad0114669e72276f0c85fd" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="327a154fb943173fbab92ade3685e839" name="CustomerName" type="NVARCHAR" nullable="false" length="100">
       </attributes>
@@ -1023,8 +1016,7 @@
     </annotations>
     <outputs xmi:id="dbdcd3c9881df6024e2cd5f029a0379c" name="PackageTypes">
       <attributes xmi:id="c9cf8bc76f101faee4cdaea3a1fe9e59" name="PackageTypeID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="a0f930f92200acc0a43e1038a58e3283" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="a0f930f92200acc0a43e1038a58e3283" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="8adaaa98d71924a33a7ad36d9cd15cc1" name="PackageTypeName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
@@ -1101,8 +1093,7 @@
     </annotations>
     <outputs xmi:id="ae95a206a9f13cf54359fd4296fe8b57" name="PaymentMethods">
       <attributes xmi:id="2cfc9f8a16f434cd84a91149b0a33664" name="PaymentMethodID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="2245418e3673f7b092773ce0bb1ce870" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="2245418e3673f7b092773ce0bb1ce870" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="d7ad4e9f5c61833858243f3fae320460" name="PaymentMethodName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
@@ -1179,8 +1170,7 @@
     </annotations>
     <outputs xmi:id="7b472393fea06c2bca1de5ab7314e638" name="People">
       <attributes xmi:id="0ec116d7813192501620868a61d0076c" name="PersonID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="95f69a5a37a90fd417c59ecded126a99" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="95f69a5a37a90fd417c59ecded126a99" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="81c7da5d24d71eb048e3b21b6cf51a13" name="FullName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
@@ -1321,8 +1311,7 @@
     </annotations>
     <outputs xmi:id="39c750f49439c850a2b1a099e923e2e3" name="StateProvinces">
       <attributes xmi:id="a1fe6edfbfa6870ed82adace80c80165" name="StateProvinceID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="fa0952ca915658ba43ac348c0a30b6b8" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="fa0952ca915658ba43ac348c0a30b6b8" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="bf956a6661dce2ae6e7781bb97d7f05d" name="StateProvinceCode" type="NVARCHAR" nullable="false" length="5">
       </attributes>
@@ -1342,7 +1331,7 @@
       </attributes>
     </outputs>
   </nodes>
-  <nodes xmi:id="b394e180f5a90ae17c67a6e45553ce8e" xsi:type="flowgraph:DataNode" name="DataTarget_9" truncateTable="false" catalogObjectName="StateProvinces" type="TEMPLATE_TABLE">
+  <nodes xmi:id="b394e180f5a90ae17c67a6e45553ce8e" xsi:type="flowgraph:DataNode" name="DataTarget_9" truncateTable="true" catalogObjectName="StateProvinces" type="TEMPLATE_TABLE">
     <annotations key="sap.afm.layout" xmi:id="71eb8dd2c708102e8c5f4a9d3b7e7e08">
       <annotations xmi:id="da0d776accc55dbb4670e6882cc670cb" key="x" value="328">
       </annotations>
@@ -1415,8 +1404,7 @@
     </annotations>
     <outputs xmi:id="5a2060044a3e2b0208a744ffd86c623a" name="StockItems">
       <attributes xmi:id="d9eaa0928fd447a5d7b9bf08a13a591e" name="StockItemID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="8f59991eb270517eb2499972a727f676" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="8f59991eb270517eb2499972a727f676" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="289404debef09dbf310371f85e1c2c50" name="StockItemName" type="NVARCHAR" nullable="false" length="100">
       </attributes>
@@ -1573,8 +1561,7 @@
     </annotations>
     <outputs xmi:id="f3fbba40001445be12d2ec74626128ad" name="SupplierCategories">
       <attributes xmi:id="ba0822c3428da91ed0e9d93cd8775489" name="SupplierCategoryID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="0968d2569d39a7fc55941111fb815a14" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="0968d2569d39a7fc55941111fb815a14" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="5eba440fa6a161b0992893423f00fa7a" name="SupplierCategoryName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
@@ -1651,8 +1638,7 @@
     </annotations>
     <outputs xmi:id="c98a2dcc5e217f43c5331081e6349094" name="Suppliers">
       <attributes xmi:id="17024be139967df7b8ab3be70ac13953" name="SupplierID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="8227f09f055f36f78b2d4858bcfce97c" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="8227f09f055f36f78b2d4858bcfce97c" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="b921633f513823d9f30509862bb27a11" name="SupplierName" type="NVARCHAR" nullable="false" length="100">
       </attributes>
@@ -1821,8 +1807,7 @@
     </annotations>
     <outputs xmi:id="afc5a0d28dc9972b952a286dac575b49" name="TransactionTypes">
       <attributes xmi:id="99be50f48736a5fbd8a5ea071e709fdb" name="TransactionTypeID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="3cf846e231da76e2c5472d59c454e6ca" key="sap.im.primaryKey" value="true">
-        </annotations>
+        <annotations xmi:id="3cf846e231da76e2c5472d59c454e6ca" key="sap.im.primaryKey" value="true"/>
       </attributes>
       <attributes xmi:id="f62b6afd1121cf04e96d72e516bbf2e1" name="TransactionTypeName" type="NVARCHAR" nullable="false" length="50">
       </attributes>
