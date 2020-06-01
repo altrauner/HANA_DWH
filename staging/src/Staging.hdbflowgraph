@@ -187,50 +187,6 @@
     <attributeMappings xmi:id="c988b4ef592bc0d369efc073f4760a8a" source="ec1c0a9001edb8f425a7caf94d16b86d" target="a7791efd4f1461696a119381340b660a">
     </attributeMappings>
   </tableMappings>
-  <tableMappings xmi:id="a20e2ea1990976a90754f508c5c355b7" source="7b472393fea06c2bca1de5ab7314e638" target="7ccdcca751b4b9372644cabf60b37507">
-    <attributeMappings xmi:id="6884bba55c148109908b7b8b51fefadd" source="0ec116d7813192501620868a61d0076c" target="daa1d325532caab3cee2f1f279bb2722">
-    </attributeMappings>
-    <attributeMappings xmi:id="154002d44a3e4761e2feab4d514cefb6" source="81c7da5d24d71eb048e3b21b6cf51a13" target="a05f55812bf926e7eb5d300b648b9573">
-    </attributeMappings>
-    <attributeMappings xmi:id="7c92a3205f3ce4c50daed6029770d16b" source="a28120fde596a2240e4ec4cf94a3bed6" target="6bc7d7cde703c2718b1dd7c6ec38315c">
-    </attributeMappings>
-    <attributeMappings xmi:id="0a494e05bada776512aa14088d679dad" source="367a14ec627c1bea9ce781f4c15e262d" target="66e221cb903ab8df3bd1a157f778b56b">
-    </attributeMappings>
-    <attributeMappings xmi:id="e362695c5f6de5802bb4db5204341eaf" source="7c1408c0300f116ce97d372723cd8d17" target="a90ea08db62db497388662dffb72bcd0">
-    </attributeMappings>
-    <attributeMappings xmi:id="1ed9c5a90cf6fc0de2b8fe3699abbb2b" source="9882fb15aa7e65665d8179737dc2a2d9" target="7715a1ba98272b0ece619df3255b702f">
-    </attributeMappings>
-    <attributeMappings xmi:id="df3d8021693dbd597ba1cc954f66be9b" source="3b25809c11e391a1e96d69dba8468c77" target="70df598a88237944280df05b8902c0cf">
-    </attributeMappings>
-    <attributeMappings xmi:id="a738ec4394d5953ebdb94689435a4095" source="5dfadc12bb3500491f27d9d91f16b4e3" target="3d9619266b9ab3ad668700c0680a5f74">
-    </attributeMappings>
-    <attributeMappings xmi:id="95d9d240e2015934b14b3d6be217b875" source="c66c9e92536571e6d3517d7fb47f800d" target="bc7c608b8cb912024b303c82f766a7cc">
-    </attributeMappings>
-    <attributeMappings xmi:id="7bfe1dcf3f21874b11338587c1c75767" source="723596b9440806a87e15e9bfab9a67c7" target="30a0193aa902f3a60ec26b4eaddda48b">
-    </attributeMappings>
-    <attributeMappings xmi:id="1a7f3ca9b6fa24ca0cf5e2de8a116062" source="a07c20f3a767921014b2b518823f1a1a" target="de83faef811f3b24beb1aa4ecc3610f0">
-    </attributeMappings>
-    <attributeMappings xmi:id="053ff255867c6e3ec279a9e7be195c42" source="7374c5b100e6f5708ee47dd25638e205" target="0acf4138f716842fe82a324d332d74fc">
-    </attributeMappings>
-    <attributeMappings xmi:id="4cafa050a2f6abfcf281873a0c8e3f22" source="48d2160878aad7e93c0b068e4c95e55d" target="0b49565cda08e863e13e9dcf3dc5532b">
-    </attributeMappings>
-    <attributeMappings xmi:id="8f6082072f5f5908d3b31fb7c3bd6640" source="6c9e93cb2b115fd53b914153e4fbad04" target="2c5d116ce8780b0c688c7f3e1e1afd10">
-    </attributeMappings>
-    <attributeMappings xmi:id="9a72111b8173aad965c84a41e8becec1" source="2aa09b3a14bc7e2b6287ac9850b27199" target="ae8aafeef00672ac89f66139c7f4973e">
-    </attributeMappings>
-    <attributeMappings xmi:id="246270fa1f39de04cc4cba32a950a5ad" source="6254a2cdf605db0a04b6e8ce0fc97959" target="69b01490c8fae2a272e898e37ad8d9e7">
-    </attributeMappings>
-    <attributeMappings xmi:id="48013c58f5d62bfc6c1d457064cd7ff2" source="2fcafea89f048a34dd74fc71b00bc3a5" target="93dcb2d5896110ba900be09fb9528e0f">
-    </attributeMappings>
-    <attributeMappings xmi:id="87c27db99f24198edf89796828c74aeb" source="f09cad2e279c40265d14cfc73e119ae2" target="f5af82a6b719707bcdea351583a7c617">
-    </attributeMappings>
-    <attributeMappings xmi:id="883adf7aa98ed1082bdf4c2fe15513e9" source="1980b517847b4c5f9b37acb0394503e2" target="2d580e4d99c2b69adb4694044ccf0693">
-    </attributeMappings>
-    <attributeMappings xmi:id="b744a06b08dd165d3e60bd8019a8cf4f" source="8d226b99b57121717ec7f09ce4186de8" target="58b91fb4bcdb058ae945bc7ea2aad555">
-    </attributeMappings>
-    <attributeMappings xmi:id="ef05ac90b87fe74030860b150c2160c4" source="c88e51cdc01a6988751da788f5045a87" target="8a006034a309bddcde87cf856bc29a25">
-    </attributeMappings>
-  </tableMappings>
   <tableMappings xmi:id="73b63a21e55e30a54e33fed4297676ae" source="39c750f49439c850a2b1a099e923e2e3" target="7f9e08de5a29a637bad8b1cbf1231e35">
     <attributeMappings xmi:id="689e9a805e94e5609b935a9ff48d23a7" source="a1fe6edfbfa6870ed82adace80c80165" target="e81876701a8338236034bab2a7f474ef">
     </attributeMappings>
@@ -383,6 +339,50 @@
     <attributeMappings xmi:id="98ca1291aa5d03a3f43cb32dde4928ef" source="2df8094e6b73424a74d9af803699bdc6" target="b48677bf17261983ea3fb5b49fef74b3">
     </attributeMappings>
     <attributeMappings xmi:id="10f59ed9eb20770b31d23db39412e3ca" source="663fa632e991cd245878ab33810d7724" target="866d3ff8d1aa9092e140a34f0a03d363">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="c4f736d8afcb4f5cf3c8313a6082020a" source="8c91889c11107e01ee6d3573e320d7ff" target="462c1fd7a410fd813811935d2b0289cb">
+    <attributeMappings xmi:id="a96b33b7ebb8b74697b24a370b724129" source="01ca22530729cbfb92c40f4873949452" target="510d18b372c9c897fec215b702ebc44f">
+    </attributeMappings>
+    <attributeMappings xmi:id="4f4aa3cb5db066d70e825cfd6e5b63ae" source="dd1052d9a5fe1ae206d4c553e209a173" target="e1e8f3bb7ff4ed4f7a35ee0f4deb1fd2">
+    </attributeMappings>
+    <attributeMappings xmi:id="c6461eb7eb4b0df0692556493f4f3869" source="9d45a41f25f7bdb8cac9b758bd8921b0" target="84612eda4ce8033bd5c7ac561d1c4856">
+    </attributeMappings>
+    <attributeMappings xmi:id="47823b3d931efe4a9c7675fed79538eb" source="542cb98d19d3ac42f183ae9f12828f68" target="033563fe3d888707ba1f54fbb8ad3bf0">
+    </attributeMappings>
+    <attributeMappings xmi:id="95aed86232b39b32eb9442ef383caf32" source="eaf0f23ef54595348fa6a0b4a5d867eb" target="525e077ac1cf4b8d3163f5469661ca54">
+    </attributeMappings>
+    <attributeMappings xmi:id="5b8b7e54f23e65eddfb0f824d5eb7c52" source="c1a55d4d1994c1ffa4a0c70625cdd291" target="b36260f682cf77f7fd069a7d7481e81c">
+    </attributeMappings>
+    <attributeMappings xmi:id="e35e7556ef550f3c3b5099e0aa7cbd04" source="66a22bfad35ffa0d2ef99904dcd04029" target="74cddabfced61036132291f6cf2a36b1">
+    </attributeMappings>
+    <attributeMappings xmi:id="a027ca23855f5d88d635cd8bf8ea3f4c" source="c48b6bcd818d894aad03368a7c2b25d1" target="9a5d451d9722532a9cfea47ddd786e0e">
+    </attributeMappings>
+    <attributeMappings xmi:id="bec909a43921228358d47da2a49eacba" source="932117bcee5a68a2660ff60072ad009d" target="f13eece764183997bba3b61ed692c74d">
+    </attributeMappings>
+    <attributeMappings xmi:id="0f531ac07894e89f408ae49be8887773" source="589f62398d146271f6d02b857a3bfb3a" target="aae03b531cccec039b2192aac1929c48">
+    </attributeMappings>
+    <attributeMappings xmi:id="81d1efe367e7ba6b381e5a36f9822848" source="591475678ef62ca6b43b8a96e787cdcb" target="beeb6ab673cdb5a496e1a921e5d762b7">
+    </attributeMappings>
+    <attributeMappings xmi:id="a7206b41a883405f38ed7d2ac45a8b97" source="0609e5cfd9d159e4c0592dba4e842276" target="3010822e2f2260255df9484446d99211">
+    </attributeMappings>
+    <attributeMappings xmi:id="da80d95429b595f8eb43702639fdb604" source="30bb56ab059b3735b7f2cf7b7cf5129b" target="8ebe31f4f93a36991e38fb8e0b3809b0">
+    </attributeMappings>
+    <attributeMappings xmi:id="900efed028b43b5af468919029a73da5" source="bf593f501d5dc8b1bdfa5fa172339a41" target="b2a867154ac7bd651db21d86da025e7f">
+    </attributeMappings>
+    <attributeMappings xmi:id="d0eb5affd6521cf0d15d5a6c6b337d5a" source="4a290b258879a211a824e5d3ddbdb827" target="f2df799ba4344c23c7f139371db56b8e">
+    </attributeMappings>
+    <attributeMappings xmi:id="fb65d8243d043dc10afb01bf11982d61" source="94469574a4215ce96c0b43cafa2454b5" target="9c16e63393268bdbd3ee964835b7228a">
+    </attributeMappings>
+    <attributeMappings xmi:id="b7b3aa9d5a6b2330fa8041a1a01fa1b0" source="18fb724429991bd97b36b3bf240ed13e" target="e7afcecbb4ea4b044d46f97da18d11cd">
+    </attributeMappings>
+    <attributeMappings xmi:id="2a6b7e5ee66f497bde91ccd37f53c801" source="f05479d2cc42824abbe8cb14bf74ee41" target="39a505a84c3ec4b29733bdfe385a8eae">
+    </attributeMappings>
+    <attributeMappings xmi:id="4ee4256c56b2b185f8ca77d2f92019b8" source="a39ece331d9fcdc204870e7401281ac4" target="2d4c480e80737ade4857fc6d05c23ae6">
+    </attributeMappings>
+    <attributeMappings xmi:id="a67b591b865770369d52a25ef1a21475" source="37f551bcfdf80e3fe5d538c4413e8875" target="6e471e6a7188e73f445edac6911630c2">
+    </attributeMappings>
+    <attributeMappings xmi:id="fd84b8c5ba23e723de3b3776bc673920" source="f8e7563f33247ecefe1cafc8e66b52e7" target="18179705891cac5a5b07f58c6f6f8693">
     </attributeMappings>
   </tableMappings>
   <nodes xmi:id="da59619db18db7f81fbfd96ac3a5e278" name="BuyingGroups" catalogObjectName="HANA_DWH.staging::BuyingGroups" type="VIRTUAL_TABLE" xsi:type="flowgraph:DataNode" dataLayout="ROW">
@@ -1141,147 +1141,6 @@
       </attributes>
     </inputs>
   </nodes>
-  <nodes xmi:id="996ffa2d16096b5f86eb3aebc51c1c03" name="People" catalogObjectName="HANA_DWH.staging::People" type="VIRTUAL_TABLE" xsi:type="flowgraph:DataNode" dataLayout="ROW">
-    <annotations key="sap.afm.layout" xmi:id="b261abee10bc6bad76de3cc2c9284242">
-      <annotations xmi:id="7dab3a7900e6d5280f5fbac3794ab22f" key="x" value="922">
-      </annotations>
-      <annotations xmi:id="5ae85293971dbaa0af420c3908d6775a" key="y" value="99">
-      </annotations>
-      <annotations xmi:id="4c2782ff29dc7834e2204d8c1ec20748" key="width" value="120">
-      </annotations>
-      <annotations xmi:id="285e436efe652e5963a818440942c36a" key="height" value="115">
-      </annotations>
-    </annotations>
-    <annotations xmi:id="a3eea5dd0bf120885ff5b7e3608d1cd6" key="sap.afm.description">
-    </annotations>
-    <annotations xmi:id="7edebdd9de6cb0d1cf3a3a103a6c6c74" key="sap.afm.nodeType" value="DataNode">
-    </annotations>
-    <annotations xmi:id="b95322e984d0c58257ced28257b855c1" key="sap.afm.nodeInputs">
-    </annotations>
-    <annotations xmi:id="beac7d1426ffb389f8f20b30470453cc" key="sap.afm.nodeOutputs">
-    </annotations>
-    <annotations xmi:id="f7be207f9a63958e91dcecb805bb1c45" key="sap.afm.displayName" value="Data Source">
-    </annotations>
-    <annotations xmi:id="f0ad73192898750332543d999f9a35e0" key="columns" value="[{&quot;name&quot;:&quot;PersonID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;primarykey&quot;:true,&quot;id&quot;:&quot;0ec116d7813192501620868a61d0076c&quot;},{&quot;name&quot;:&quot;FullName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;81c7da5d24d71eb048e3b21b6cf51a13&quot;},{&quot;name&quot;:&quot;PreferredName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;a28120fde596a2240e4ec4cf94a3bed6&quot;},{&quot;name&quot;:&quot;SearchName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:101,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;367a14ec627c1bea9ce781f4c15e262d&quot;},{&quot;name&quot;:&quot;IsPermittedToLogon&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;7c1408c0300f116ce97d372723cd8d17&quot;},{&quot;name&quot;:&quot;LogonName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;9882fb15aa7e65665d8179737dc2a2d9&quot;},{&quot;name&quot;:&quot;IsExternalLogonProvider&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;3b25809c11e391a1e96d69dba8468c77&quot;},{&quot;name&quot;:&quot;HashedPassword&quot;,&quot;type&quot;:&quot;BLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;5dfadc12bb3500491f27d9d91f16b4e3&quot;},{&quot;name&quot;:&quot;IsSystemUser&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;c66c9e92536571e6d3517d7fb47f800d&quot;},{&quot;name&quot;:&quot;IsEmployee&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;723596b9440806a87e15e9bfab9a67c7&quot;},{&quot;name&quot;:&quot;IsSalesperson&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;a07c20f3a767921014b2b518823f1a1a&quot;},{&quot;name&quot;:&quot;UserPreferences&quot;,&quot;type&quot;:&quot;NCLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;7374c5b100e6f5708ee47dd25638e205&quot;},{&quot;name&quot;:&quot;PhoneNumber&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:20,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;48d2160878aad7e93c0b068e4c95e55d&quot;},{&quot;name&quot;:&quot;FaxNumber&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:20,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;6c9e93cb2b115fd53b914153e4fbad04&quot;},{&quot;name&quot;:&quot;EmailAddress&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;2aa09b3a14bc7e2b6287ac9850b27199&quot;},{&quot;name&quot;:&quot;Photo&quot;,&quot;type&quot;:&quot;BLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;6254a2cdf605db0a04b6e8ce0fc97959&quot;},{&quot;name&quot;:&quot;CustomFields&quot;,&quot;type&quot;:&quot;NCLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;2fcafea89f048a34dd74fc71b00bc3a5&quot;},{&quot;name&quot;:&quot;OtherLanguages&quot;,&quot;type&quot;:&quot;NCLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;f09cad2e279c40265d14cfc73e119ae2&quot;},{&quot;name&quot;:&quot;LastEditedBy&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;1980b517847b4c5f9b37acb0394503e2&quot;},{&quot;name&quot;:&quot;ValidFrom&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;8d226b99b57121717ec7f09ce4186de8&quot;},{&quot;name&quot;:&quot;ValidTo&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;c88e51cdc01a6988751da788f5045a87&quot;}]">
-    </annotations>
-    <annotations xmi:id="16e496f7cd3792c75a72ff3496597705" key="sap.im.realtime" value="false">
-    </annotations>
-    <annotations xmi:id="e13d14ff028392f511f6d988edaa8406" key="sap.im.tableLevelChange" value="false">
-    </annotations>
-    <outputs xmi:id="7b472393fea06c2bca1de5ab7314e638" name="People">
-      <attributes xmi:id="0ec116d7813192501620868a61d0076c" name="PersonID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="95f69a5a37a90fd417c59ecded126a99" key="sap.im.primaryKey" value="true"/>
-      </attributes>
-      <attributes xmi:id="81c7da5d24d71eb048e3b21b6cf51a13" name="FullName" type="NVARCHAR" nullable="false" length="50">
-      </attributes>
-      <attributes xmi:id="a28120fde596a2240e4ec4cf94a3bed6" name="PreferredName" type="NVARCHAR" nullable="false" length="50">
-      </attributes>
-      <attributes xmi:id="367a14ec627c1bea9ce781f4c15e262d" name="SearchName" type="NVARCHAR" nullable="false" length="101">
-      </attributes>
-      <attributes xmi:id="7c1408c0300f116ce97d372723cd8d17" name="IsPermittedToLogon" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="9882fb15aa7e65665d8179737dc2a2d9" name="LogonName" type="NVARCHAR" nullable="true" length="50">
-      </attributes>
-      <attributes xmi:id="3b25809c11e391a1e96d69dba8468c77" name="IsExternalLogonProvider" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="5dfadc12bb3500491f27d9d91f16b4e3" name="HashedPassword" type="BLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="c66c9e92536571e6d3517d7fb47f800d" name="IsSystemUser" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="723596b9440806a87e15e9bfab9a67c7" name="IsEmployee" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="a07c20f3a767921014b2b518823f1a1a" name="IsSalesperson" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="7374c5b100e6f5708ee47dd25638e205" name="UserPreferences" type="NCLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="48d2160878aad7e93c0b068e4c95e55d" name="PhoneNumber" type="NVARCHAR" nullable="true" length="20">
-      </attributes>
-      <attributes xmi:id="6c9e93cb2b115fd53b914153e4fbad04" name="FaxNumber" type="NVARCHAR" nullable="true" length="20">
-      </attributes>
-      <attributes xmi:id="2aa09b3a14bc7e2b6287ac9850b27199" name="EmailAddress" type="NVARCHAR" nullable="true" length="256">
-      </attributes>
-      <attributes xmi:id="6254a2cdf605db0a04b6e8ce0fc97959" name="Photo" type="BLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="2fcafea89f048a34dd74fc71b00bc3a5" name="CustomFields" type="NCLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="f09cad2e279c40265d14cfc73e119ae2" name="OtherLanguages" type="NCLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="1980b517847b4c5f9b37acb0394503e2" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
-      </attributes>
-      <attributes xmi:id="8d226b99b57121717ec7f09ce4186de8" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
-      </attributes>
-      <attributes xmi:id="c88e51cdc01a6988751da788f5045a87" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
-      </attributes>
-    </outputs>
-  </nodes>
-  <nodes xmi:id="dcda8dea288e254f1007c890e16a33ab" xsi:type="flowgraph:DataNode" name="DataTarget_8" truncateTable="false" catalogObjectName="People" type="TEMPLATE_TABLE">
-    <annotations key="sap.afm.layout" xmi:id="32aec64da9c1b6ff1401f0320a8ae8ce">
-      <annotations xmi:id="81677b256014e1a2ba87356c3c88352d" key="x" value="1120">
-      </annotations>
-      <annotations xmi:id="bb0506b7a1b66fbba207fc049f182733" key="y" value="99">
-      </annotations>
-      <annotations xmi:id="5125c5e4ad4a5218b296fca83ea70842" key="width" value="120">
-      </annotations>
-      <annotations xmi:id="3acf41949316303e253731d04a419580" key="height" value="115">
-      </annotations>
-    </annotations>
-    <annotations xmi:id="306e836f0a64aaf6e8888554fe95b225" key="sap.afm.description">
-    </annotations>
-    <annotations xmi:id="4c29fb9c4e6df94921409b1ef92083d1" key="sap.afm.nodeType" value="DataNode">
-    </annotations>
-    <annotations xmi:id="2333d34d1697cd0411e6a6c40102b29f" key="sap.afm.nodeInputs">
-    </annotations>
-    <annotations xmi:id="2009fcf0418e8fb14f8a37ad2dafbd41" key="sap.afm.nodeOutputs">
-    </annotations>
-    <annotations xmi:id="88b652ebb777fc8fb0ea84cca5ff4894" key="sap.afm.displayName" value="Data Target">
-    </annotations>
-    <inputs xmi:id="7ccdcca751b4b9372644cabf60b37507" name="DataTarget_8" kind="TABLE">
-      <attributes xmi:id="daa1d325532caab3cee2f1f279bb2722" name="PersonID" type="INTEGER" nullable="false" length="10">
-        <annotations xmi:id="443fce8e9adbfec84162f84cc302ed5b" key="sap.im.primaryKey" value="true">
-        </annotations>
-      </attributes>
-      <attributes xmi:id="a05f55812bf926e7eb5d300b648b9573" name="FullName" type="NVARCHAR" nullable="false" length="50">
-      </attributes>
-      <attributes xmi:id="6bc7d7cde703c2718b1dd7c6ec38315c" name="PreferredName" type="NVARCHAR" nullable="false" length="50">
-      </attributes>
-      <attributes xmi:id="66e221cb903ab8df3bd1a157f778b56b" name="SearchName" type="NVARCHAR" nullable="false" length="101">
-      </attributes>
-      <attributes xmi:id="a90ea08db62db497388662dffb72bcd0" name="IsPermittedToLogon" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="7715a1ba98272b0ece619df3255b702f" name="LogonName" type="NVARCHAR" nullable="true" length="50">
-      </attributes>
-      <attributes xmi:id="70df598a88237944280df05b8902c0cf" name="IsExternalLogonProvider" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="3d9619266b9ab3ad668700c0680a5f74" name="HashedPassword" type="BLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="bc7c608b8cb912024b303c82f766a7cc" name="IsSystemUser" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="30a0193aa902f3a60ec26b4eaddda48b" name="IsEmployee" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="de83faef811f3b24beb1aa4ecc3610f0" name="IsSalesperson" type="BOOLEAN" nullable="false" length="2">
-      </attributes>
-      <attributes xmi:id="0acf4138f716842fe82a324d332d74fc" name="UserPreferences" type="NCLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="0b49565cda08e863e13e9dcf3dc5532b" name="PhoneNumber" type="NVARCHAR" nullable="true" length="20">
-      </attributes>
-      <attributes xmi:id="2c5d116ce8780b0c688c7f3e1e1afd10" name="FaxNumber" type="NVARCHAR" nullable="true" length="20">
-      </attributes>
-      <attributes xmi:id="ae8aafeef00672ac89f66139c7f4973e" name="EmailAddress" type="NVARCHAR" nullable="true" length="256">
-      </attributes>
-      <attributes xmi:id="69b01490c8fae2a272e898e37ad8d9e7" name="Photo" type="BLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="93dcb2d5896110ba900be09fb9528e0f" name="CustomFields" type="NCLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="f5af82a6b719707bcdea351583a7c617" name="OtherLanguages" type="NCLOB" nullable="true" length="2147483647">
-      </attributes>
-      <attributes xmi:id="2d580e4d99c2b69adb4694044ccf0693" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
-      </attributes>
-      <attributes xmi:id="58b91fb4bcdb058ae945bc7ea2aad555" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
-      </attributes>
-      <attributes xmi:id="8a006034a309bddcde87cf856bc29a25" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
-      </attributes>
-    </inputs>
-  </nodes>
   <nodes xmi:id="e9b3ebe6bca6119e62554cadd4e65ac8" name="StateProvinces" catalogObjectName="HANA_DWH.staging::StateProvinces" type="VIRTUAL_TABLE" xsi:type="flowgraph:DataNode" dataLayout="ROW">
     <annotations key="sap.afm.layout" xmi:id="7b22223edc0b92052bce046d9c3ed3e1">
       <annotations xmi:id="faa05741c1ecb0d867ce95f333513b0c" key="x" value="62">
@@ -1852,6 +1711,148 @@
       <attributes xmi:id="b48677bf17261983ea3fb5b49fef74b3" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
       </attributes>
       <attributes xmi:id="866d3ff8d1aa9092e140a34f0a03d363" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </inputs>
+  </nodes>
+  <nodes xmi:id="81f2ef5e6e7f249456b7ad8cf06bd89c" name="People" catalogObjectName="HANA_DWH.staging::People" type="VIRTUAL_TABLE" xsi:type="flowgraph:DataNode" dataLayout="ROW">
+    <annotations key="sap.afm.layout" xmi:id="dc7ae531d3a0dec39bbb2dc56e7f53cf">
+      <annotations xmi:id="4f024cdc0f37874da0826ba9e8fde07e" key="x" value="931">
+      </annotations>
+      <annotations xmi:id="f53723e139694a895e074bf07f299808" key="y" value="99">
+      </annotations>
+      <annotations xmi:id="39e1d5ab66ec42c64df59a10cbea2119" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="42ab7902be84fc6624ef893696f7b0b4" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="4702d5d2a5e6965fa857f9671ebc248b" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="34ea8b326c83aaa38f25a6409f6c20f6" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="a77eaf0a3d2ec5e816af8180b84215d8" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="a825dab34a6f45cc2ee64d4da829f796" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="dbe3f6ca03e57a02355122c12fbd1d49" key="sap.afm.displayName" value="Data Source">
+    </annotations>
+    <annotations xmi:id="6ffa6425d3d2904407e2df5ed32cb8bd" key="columns" value="[{&quot;name&quot;:&quot;PersonID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;primarykey&quot;:true,&quot;id&quot;:&quot;01ca22530729cbfb92c40f4873949452&quot;},{&quot;name&quot;:&quot;FullName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;dd1052d9a5fe1ae206d4c553e209a173&quot;},{&quot;name&quot;:&quot;PreferredName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;9d45a41f25f7bdb8cac9b758bd8921b0&quot;},{&quot;name&quot;:&quot;SearchName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:101,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;542cb98d19d3ac42f183ae9f12828f68&quot;},{&quot;name&quot;:&quot;IsPermittedToLogon&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;eaf0f23ef54595348fa6a0b4a5d867eb&quot;},{&quot;name&quot;:&quot;LogonName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:50,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;c1a55d4d1994c1ffa4a0c70625cdd291&quot;},{&quot;name&quot;:&quot;IsExternalLogonProvider&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;66a22bfad35ffa0d2ef99904dcd04029&quot;},{&quot;name&quot;:&quot;HashedPassword&quot;,&quot;type&quot;:&quot;BLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;c48b6bcd818d894aad03368a7c2b25d1&quot;},{&quot;name&quot;:&quot;IsSystemUser&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;932117bcee5a68a2660ff60072ad009d&quot;},{&quot;name&quot;:&quot;IsEmployee&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;589f62398d146271f6d02b857a3bfb3a&quot;},{&quot;name&quot;:&quot;IsSalesperson&quot;,&quot;type&quot;:&quot;BOOLEAN&quot;,&quot;length&quot;:2,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;591475678ef62ca6b43b8a96e787cdcb&quot;},{&quot;name&quot;:&quot;UserPreferences&quot;,&quot;type&quot;:&quot;NCLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;0609e5cfd9d159e4c0592dba4e842276&quot;},{&quot;name&quot;:&quot;PhoneNumber&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:20,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;30bb56ab059b3735b7f2cf7b7cf5129b&quot;},{&quot;name&quot;:&quot;FaxNumber&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:20,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;bf593f501d5dc8b1bdfa5fa172339a41&quot;},{&quot;name&quot;:&quot;EmailAddress&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;4a290b258879a211a824e5d3ddbdb827&quot;},{&quot;name&quot;:&quot;Photo&quot;,&quot;type&quot;:&quot;BLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;94469574a4215ce96c0b43cafa2454b5&quot;},{&quot;name&quot;:&quot;CustomFields&quot;,&quot;type&quot;:&quot;NCLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;18fb724429991bd97b36b3bf240ed13e&quot;},{&quot;name&quot;:&quot;OtherLanguages&quot;,&quot;type&quot;:&quot;NCLOB&quot;,&quot;length&quot;:2147483647,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;f05479d2cc42824abbe8cb14bf74ee41&quot;},{&quot;name&quot;:&quot;LastEditedBy&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;a39ece331d9fcdc204870e7401281ac4&quot;},{&quot;name&quot;:&quot;ValidFrom&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;37f551bcfdf80e3fe5d538c4413e8875&quot;},{&quot;name&quot;:&quot;ValidTo&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;false&quot;,&quot;id&quot;:&quot;f8e7563f33247ecefe1cafc8e66b52e7&quot;}]">
+    </annotations>
+    <annotations xmi:id="165cd51b7be0b1b017c29c0d35c5a458" key="sap.im.realtime" value="false">
+    </annotations>
+    <annotations xmi:id="84c8b83d231047e9ef96803e93b6f4de" key="sap.im.tableLevelChange" value="false">
+    </annotations>
+    <outputs xmi:id="8c91889c11107e01ee6d3573e320d7ff" name="People">
+      <attributes xmi:id="01ca22530729cbfb92c40f4873949452" name="PersonID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="997a7bfa825b40f11e15681c1368ef84" key="sap.im.primaryKey" value="true">
+        </annotations>
+      </attributes>
+      <attributes xmi:id="dd1052d9a5fe1ae206d4c553e209a173" name="FullName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="9d45a41f25f7bdb8cac9b758bd8921b0" name="PreferredName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="542cb98d19d3ac42f183ae9f12828f68" name="SearchName" type="NVARCHAR" nullable="false" length="101">
+      </attributes>
+      <attributes xmi:id="eaf0f23ef54595348fa6a0b4a5d867eb" name="IsPermittedToLogon" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="c1a55d4d1994c1ffa4a0c70625cdd291" name="LogonName" type="NVARCHAR" nullable="true" length="50">
+      </attributes>
+      <attributes xmi:id="66a22bfad35ffa0d2ef99904dcd04029" name="IsExternalLogonProvider" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="c48b6bcd818d894aad03368a7c2b25d1" name="HashedPassword" type="BLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="932117bcee5a68a2660ff60072ad009d" name="IsSystemUser" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="589f62398d146271f6d02b857a3bfb3a" name="IsEmployee" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="591475678ef62ca6b43b8a96e787cdcb" name="IsSalesperson" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="0609e5cfd9d159e4c0592dba4e842276" name="UserPreferences" type="NCLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="30bb56ab059b3735b7f2cf7b7cf5129b" name="PhoneNumber" type="NVARCHAR" nullable="true" length="20">
+      </attributes>
+      <attributes xmi:id="bf593f501d5dc8b1bdfa5fa172339a41" name="FaxNumber" type="NVARCHAR" nullable="true" length="20">
+      </attributes>
+      <attributes xmi:id="4a290b258879a211a824e5d3ddbdb827" name="EmailAddress" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="94469574a4215ce96c0b43cafa2454b5" name="Photo" type="BLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="18fb724429991bd97b36b3bf240ed13e" name="CustomFields" type="NCLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="f05479d2cc42824abbe8cb14bf74ee41" name="OtherLanguages" type="NCLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="a39ece331d9fcdc204870e7401281ac4" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="37f551bcfdf80e3fe5d538c4413e8875" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="f8e7563f33247ecefe1cafc8e66b52e7" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="1bfcbbe16aaff8461322eb2a2b089b64" xsi:type="flowgraph:DataNode" name="DataTarget_8" truncateTable="true" catalogObjectName="People" type="TEMPLATE_TABLE">
+    <annotations key="sap.afm.layout" xmi:id="5aa1daa5494d713796438f38d51fe400">
+      <annotations xmi:id="8c2767f90b99ad42811284806ae0d941" key="x" value="1114">
+      </annotations>
+      <annotations xmi:id="a7142ed8aedcd1b624c727627e81d83d" key="y" value="103">
+      </annotations>
+      <annotations xmi:id="c666ca0caac22db689c7e03fa5341b8f" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="dc4933c64cf0d5af81f1e3718f92996b" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="ef13081d9dfa486ca70be3c0a824d4a2" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="224363a9ec37e403796cf065e1f9566d" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="351fc518ea845beb42ef701c2d37f230" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="9a12df24e71c14e3820ac74d5216abc5" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="5e4dc8fded83a02ff8a3e7d94b754c2f" key="sap.afm.displayName" value="Data Target">
+    </annotations>
+    <inputs xmi:id="462c1fd7a410fd813811935d2b0289cb" name="DataTarget_8" kind="TABLE">
+      <attributes xmi:id="510d18b372c9c897fec215b702ebc44f" name="PersonID" type="INTEGER" nullable="false" length="10">
+        <annotations xmi:id="aad03b253a0b72ad3b97b71d674ad251" key="sap.im.primaryKey" value="true">
+        </annotations>
+      </attributes>
+      <attributes xmi:id="e1e8f3bb7ff4ed4f7a35ee0f4deb1fd2" name="FullName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="84612eda4ce8033bd5c7ac561d1c4856" name="PreferredName" type="NVARCHAR" nullable="false" length="50">
+      </attributes>
+      <attributes xmi:id="033563fe3d888707ba1f54fbb8ad3bf0" name="SearchName" type="NVARCHAR" nullable="false" length="101">
+      </attributes>
+      <attributes xmi:id="525e077ac1cf4b8d3163f5469661ca54" name="IsPermittedToLogon" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="b36260f682cf77f7fd069a7d7481e81c" name="LogonName" type="NVARCHAR" nullable="true" length="50">
+      </attributes>
+      <attributes xmi:id="74cddabfced61036132291f6cf2a36b1" name="IsExternalLogonProvider" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="9a5d451d9722532a9cfea47ddd786e0e" name="HashedPassword" type="BLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="f13eece764183997bba3b61ed692c74d" name="IsSystemUser" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="aae03b531cccec039b2192aac1929c48" name="IsEmployee" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="beeb6ab673cdb5a496e1a921e5d762b7" name="IsSalesperson" type="BOOLEAN" nullable="false" length="2">
+      </attributes>
+      <attributes xmi:id="3010822e2f2260255df9484446d99211" name="UserPreferences" type="NCLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="8ebe31f4f93a36991e38fb8e0b3809b0" name="PhoneNumber" type="NVARCHAR" nullable="true" length="20">
+      </attributes>
+      <attributes xmi:id="b2a867154ac7bd651db21d86da025e7f" name="FaxNumber" type="NVARCHAR" nullable="true" length="20">
+      </attributes>
+      <attributes xmi:id="f2df799ba4344c23c7f139371db56b8e" name="EmailAddress" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="9c16e63393268bdbd3ee964835b7228a" name="Photo" type="BLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="e7afcecbb4ea4b044d46f97da18d11cd" name="CustomFields" type="NCLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="39a505a84c3ec4b29733bdfe385a8eae" name="OtherLanguages" type="NCLOB" nullable="true" length="2147483647">
+      </attributes>
+      <attributes xmi:id="2d4c480e80737ade4857fc6d05c23ae6" name="LastEditedBy" type="INTEGER" nullable="false" length="10">
+      </attributes>
+      <attributes xmi:id="6e471e6a7188e73f445edac6911630c2" name="ValidFrom" type="TIMESTAMP" nullable="false" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="18179705891cac5a5b07f58c6f6f8693" name="ValidTo" type="TIMESTAMP" nullable="false" length="27" scale="7">
       </attributes>
     </inputs>
   </nodes>
